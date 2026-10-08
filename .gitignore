@@ -1,0 +1,26 @@
+# Archivo compilado (se regenera con scripts/compilar)
+salida/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+.vscode/
+.obsidian/
+.claude/settings.local.json
+
+# ──────────────────────────────────────────────────────────────────────────
+# 📄 MATERIAL DE ESTUDIO (info/)
+# Por defecto NO se sube: puede tener derechos de autor (libros, apuntes del
+# profesor, exámenes de clase) o datos personales. Solo se suben los README,
+# los .gitkeep y el índice.
+# 👉 Si tu repositorio es PRIVADO y quieres guardarlo todo en GitHub,
+#    borra o comenta las 5 líneas siguientes.
+info/**/*
+!info/**/
+!info/**/README.md
+!info/**/.gitkeep
+!info/INDICE.md
+# ──────────────────────────────────────────────────────────────────────────
