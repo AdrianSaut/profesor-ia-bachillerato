@@ -1,5 +1,6 @@
 # Archivo compilado (se regenera con scripts/compilar)
 salida/
+tmp/
 
 # Sistema / editores
 .DS_Store
